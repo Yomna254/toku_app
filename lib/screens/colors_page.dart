@@ -6,42 +6,42 @@ class ColorsPage extends StatelessWidget {
   const ColorsPage({super.key});
   final List<Number> numbers = const [
     Number(
-        sound: 'sounds/numbers/number_one_sound - Copy.wav',
+        sound: 'sounds/colors/black.wav',
         image: 'assets/images/colors/color_black.png',
         enName: 'black',
         jpName: 'Kuro'),
     Number(
-        sound: 'sounds/numbers/number_two_sound.mp3',
+        sound: 'sounds/colors/brown.wav',
         image: 'assets/images/colors/color_brown.png',
         enName: 'brown',
         jpName: 'Chairo'),
     Number(
-        sound: 'sounds/numbers/number_two_sound.mp3',
+        sound: 'sounds/colors/green.wav',
         image: 'assets/images/colors/color_green.png',
         enName: 'green',
         jpName: 'Midori'),
     Number(
-        sound: 'sounds/numbers/number_two_sound.mp3',
+        sound: 'sounds/colors/dusty yellow.wav',
         image: 'assets/images/colors/color_dusty_yellow.png',
         enName: 'dusty yellow',
         jpName: 'Dasutiierō'),
     Number(
-        sound: 'sounds/numbers/number_two_sound.mp3',
+        sound: 'sounds/colors/gray.wav',
         image: 'assets/images/colors/color_gray.png',
         enName: 'gray',
         jpName: 'Gurē'),
     Number(
-        sound: 'sounds/numbers/number_two_sound.mp3',
+        sound: 'sounds/colors/red.wav',
         image: 'assets/images/colors/color_red.png',
         enName: 'red',
         jpName: 'Aka'),
     Number(
-        sound: 'sounds/numbers/number_two_sound.mp3',
+        sound: 'sounds/colors/white.wav',
         image: 'assets/images/colors/color_white.png',
         enName: 'white',
         jpName: 'Shiro'),
     Number(
-        sound: 'sounds/numbers/number_two_sound.mp3',
+        sound: 'sounds/colors/yellow.wav',
         image: 'assets/images/colors/yellow.png',
         enName: 'yellow',
         jpName: 'Kiiro'),
